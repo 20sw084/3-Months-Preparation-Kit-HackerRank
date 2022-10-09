@@ -1,4 +1,4 @@
-#### Name: [YOUR NAME](GitHub link)
-- Place: City, State, Country
-- Bio: Who are you?
-- GitHub: [GitHub account name](GitHub link)
+#### Name: [Junaid Aslam](https://github.com/20sw084)
+- Place: Hyderabad, Sindh, Pakistan
+- Bio: Software Engineer
+- GitHub: [20sw084]([GitHub link](https://github.com/20sw084))
