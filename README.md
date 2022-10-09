@@ -1,8 +1,8 @@
-
+<h1>3 Months Interview Preparaton Kit Open for Contributions</h1>
 Participate in Hacktoberfest by contributing to any Open Source HackerRank Coding Program on GitHub! Here is a starter project for first time contributors. 
 <br/>
 Here are the steps to be followed.<br/>
-<h1>Step # 01:</h1>
+<h2>Step # 01:</h2>
 Go to: https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/three-month-week-three/challenges
 <h2>Step # 02:</h2>
 Solve any problem, upload the answer in proper location. Improve any of the problem and make Pull Request in proper solution. You are allowed to improve the algorithms in time complexity, LOCs and so on.
