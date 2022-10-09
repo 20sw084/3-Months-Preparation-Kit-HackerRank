@@ -13,7 +13,6 @@ Here are 3 quick and painless ways to contribute to this project:
 Add your name to the CONTRIBUTORS.md file <br/>
 Add a profile page to the profiles directory <br/>
 Here are the steps to be followed. <br/>
-Here are the steps to be followed.<br/>
 <h2>Step # 01:</h2>
 Go to: https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/three-month-week-three/challenges
 <h2>Step # 02:</h2>
