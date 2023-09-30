@@ -27,3 +27,9 @@
 - Place: Gorakhpur, Uttar Pradesh, India
 - Bio: Full Stack Web Developer
 - GitHub: [AnkurPandey](https://github.com/pandeyankur1324)
+
+#### Name: [Tharun Kumar](https://github.com/ariyaltharun)
+
+- Place: Bangalore, Karnataka, India
+- Bio: Beginner open source contributor
+- GitHub: [Ariyaltharun](https://github.com/ariyaltharun)
