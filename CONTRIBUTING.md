@@ -40,3 +40,9 @@
 - Bio: Full Stack Web Developer
 - GitHub:[Hitesh Bansal](https://github.com/05hiteshbansal)
 
+- #### Name: [Pranjal Agrawal](https://github.com/264pranjal)
+
+- Place: Pinjore, Haryana, India
+- Bio: Front End Web Developer
+- GitHub:[Pranjal Agrawal](https://github.com/264pranjal)
+
