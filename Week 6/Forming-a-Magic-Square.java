@@ -4,7 +4,6 @@ import java.util.*;
 public class Solution {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
         Scanner scan = new Scanner(System.in);
         int[] square = new int[9];
         for (int i = 0; i < 9; i++) {
@@ -29,7 +28,6 @@ public class Solution {
             }
             if (off < minOff) minOff = off;
         }
-        
         System.out.println(minOff);
     }
 }
