@@ -1,5 +1,5 @@
 //https://leetcode.com/problems/next-permutation/
-//Medium, Time: 18.73%, Memomry: 26.10%
+//Medium, Time: 18.73%, Memomry: 
 
 #include<bits/stdc++.h>
 using namespace std;
