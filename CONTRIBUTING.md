@@ -34,3 +34,9 @@
 - Bio: SE Student
 - GitHub:[JoelChandanshiv](https://github.com/JoelChandanshiv)
 
+#### Name: [Hitesh Bansal](https://github.com/05hiteshbansal)
+
+- Place: Faridabad, Haryana, India
+- Bio: Full Stack Web Developer
+- GitHub:[Hitesh Bansal](https://github.com/05hiteshbansal)
+
