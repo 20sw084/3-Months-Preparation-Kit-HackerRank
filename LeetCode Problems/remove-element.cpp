@@ -1,5 +1,5 @@
 //https://leetcode.com/problems/remove-element/
-//Easy, Time: 100%, Memomry: 19.05%
+//Easy, Time: Beats 100%, Memomry: Beats 19.05%
 
 #include<bits/stdc++.h>
 using namespace std;
