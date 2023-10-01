@@ -1,0 +1,36 @@
+#include<iostream>
+#include<algorithm>
+#include<cmath>
+using namespace std;
+int main()
+    {
+    int t;
+    unsigned long long int n;
+    cin>>t;
+    while(t--)
+        {
+            int c=0;
+            cin>>n;
+            //if(n==1) {cout<<"Louise";continue;}
+            while(n>1)
+                {
+                    if((n&(n-1))==0)
+                    {    n/=2;
+                        c++;
+                    }
+                    else
+                    {    
+                        unsigned long long int i=n;
+                        int size=0;
+                        while(i>0)
+                        {    i=i>>1;size++;
+                        }
+                        n=n-(1ULL<<(size-1));
+                        c++;
+                    }
+            }
+            if(c%2!=0) cout<<"Louise\n";
+            else cout<<"Richard\n";
+    }
+    return 0;
+}
