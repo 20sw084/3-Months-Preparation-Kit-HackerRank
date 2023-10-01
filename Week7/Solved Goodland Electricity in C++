@@ -1,0 +1,35 @@
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+
+int main() {
+    int n,k,s,i,j,a,f,z=0;
+scanf("%d %d",&n,&k);
+    int arr[n];
+    int brr[n];
+    for(i=0;i<n;i++){scanf("%d",&arr[i]);brr[i]=0;}
+    s=0;a=0;f=0;
+    while(a<n)
+        {
+       // printf("%d\n",a);
+        if(a+k-1>n-1&&f==0){a=n-k;f=1;}
+    for(i=a+k-1;i>=0;i--){
+        z++;
+        if(z>100000){printf("-1\n");return 0;}
+        if(arr[i]==2){printf("-1\n");return 0;}
+        if(arr[i]==1){
+            for(j=0;j<k;j++){
+                                       if(i+j<n)brr[i+j]=1;
+                                       if(i-j>=0)brr[i-j]=1;
+                             }
+                     arr[i]=2;a=i+k;break;}
+     }
+    }
+    for(i=0;i<n;i++){if(brr[i]!=1){printf("-1\n");return 0;}}
+    s=0;
+    for(i=0;i<n;i++){if(arr[i]==2){s++;}}
+    printf("%d\n",s);
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
+    return 0;
+}
