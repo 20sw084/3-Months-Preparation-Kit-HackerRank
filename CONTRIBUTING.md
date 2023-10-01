@@ -27,3 +27,10 @@
 - Place: Gorakhpur, Uttar Pradesh, India
 - Bio: Full Stack Web Developer
 - GitHub: [AnkurPandey](https://github.com/pandeyankur1324)
+
+#### Name: [Joel Chandanshiv](https://github.com/JoelChandanshiv)
+
+- Place: Pune, Maharashtra, India
+- Bio: SE Student
+- GitHub:[JoelChandanshiv](https://github.com/JoelChandanshiv)
+
