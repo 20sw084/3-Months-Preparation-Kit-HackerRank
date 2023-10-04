@@ -45,3 +45,10 @@
 - Place: Jaipur, Rajasthan, India
 - Bio: Back End Developer
 - GitHub:[Pranesh Gupta](https://github.com/pranesh6876)
+
+- #### Name: [Zobiya Jumani](https://github.com/Zobiya-Jumani21)
+
+- Place: Hyderabad, Sindh, Pakistan
+- Bio: Software Engineer
+- GitHub: [Zobiya-Jumani21](https://github.com/Zobiya-Jumani21)
+
