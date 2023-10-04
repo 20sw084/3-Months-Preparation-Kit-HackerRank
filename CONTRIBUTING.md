@@ -40,3 +40,8 @@
 - Bio: Full Stack Web Developer
 - GitHub:[Hitesh Bansal](https://github.com/05hiteshbansal)
 
+#### Name: [Pranesh Gupta](https://github.com/pranesh6876)
+
+- Place: Jaipur, Rajasthan, India
+- Bio: Back End Developer
+- GitHub:[Pranesh Gupta](https://github.com/pranesh6876)
