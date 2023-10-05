@@ -58,3 +58,9 @@
 - Bio: Android App developer
 - GitHub: [Mansi Bhayade](https://github.com/MansiBhayade/)
 
+- ####  Name: [Tayyaba Bhatti](https://github.com/TaiyabaBhatti)
+
+- Place: Jamshoro, Hyderabad Sindh Pakistan
+- Bio: Web Developer
+- GitHub: [TaiyabaBhatti](https://github.com/TaiyabaBhatti/)
+
