@@ -64,3 +64,8 @@
 - Bio: Web Developer
 - GitHub: [TaiyabaBhatti](https://github.com/TaiyabaBhatti/)
 
+
+#### Name: [Yusra Saleem](https://github.com/YusraSaleem)
+- Place: Hyderabad, Sindh, Pakistan
+- Bio: Software Engineer
+- GitHub: [YusraSaleem](https://github.com/YusraSaleem)
