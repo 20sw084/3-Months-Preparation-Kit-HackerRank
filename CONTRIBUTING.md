@@ -69,3 +69,10 @@
 - Place: Hyderabad, Sindh, Pakistan
 - Bio: Software Engineer
 - GitHub: [YusraSaleem](https://github.com/YusraSaleem)
+
+
+#### Name: [Sarwat Aijaz](https://github.com/sarwataijaz)
+- Place: Hyderabad, Sindh, Pakistan
+- Bio: Software Engineer
+- GitHub: [sarwataijaz](https://github.com/sarwataijaz)
+
