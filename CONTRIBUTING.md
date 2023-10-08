@@ -76,3 +76,8 @@
 - Bio: Software Engineer
 - GitHub: [sarwataijaz](https://github.com/sarwataijaz)
 
+#### Name: [Ranadheer Senani](https://github.com/20sw084)
+
+- Place: Hyderabad, Telangana, India
+- Bio: Software Engineer
+- GitHub: [Ranadheer-senani](https://github.com/Ranadheer-senani)
