@@ -1,7 +1,7 @@
 package com.Functions;
 import java.util.Scanner;
-public class pythagorian {
-    public static String pythagoreanTriplet(int ...var){
+public class Pythagorian {
+    public static String PythagoreanTriplet(int ...var){
         int p=var[0]*var[0];
         int b=var[1]*var[1];
         int h=var[2]*var[2];
@@ -14,12 +14,12 @@ public class pythagorian {
         }
     }
     public static void main(String[] args) {
-        // pythagorean triplet
+        // Pythagorean triplet
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter three numbers:");
         int num1=sc.nextInt();
         int num2=sc.nextInt();
         int num3=sc.nextInt();
-        System.out.println("Is the given triplet is pythagorean triplet or not?"+pythagoreanTriplet(num1,num2,num3));
+        System.out.println("Is the given triplet is pythagorean triplet or not?"PythagoreanTriplet(num1,num2,num3));
     }
 }
