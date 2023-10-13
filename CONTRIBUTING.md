@@ -81,3 +81,10 @@
 - Place: Hyderabad, Telangana, India
 - Bio: Software Engineer
 - GitHub: [Ranadheer-senani](https://github.com/Ranadheer-senani)
+
+
+#### Name: [Richa Banerjee](https://github.com/RichaBanerjee)
+
+- Place: Ahmedabad, Gujarat, India
+- Bio: Software Engineer
+- GitHub: [RichaBanerjee](https://github.com/RichaBanerjee)
