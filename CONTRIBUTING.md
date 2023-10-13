@@ -76,6 +76,7 @@
 - Bio: Software Engineer
 - GitHub: [sarwataijaz](https://github.com/sarwataijaz)
 
+
 #### Name: [Ranadheer Senani](https://github.com/20sw084)
 
 - Place: Hyderabad, Telangana, India
@@ -88,7 +89,10 @@
 - Place: Ahmedabad, Gujarat, India
 - Bio: Software Engineer
 - GitHub: [RichaBanerjee](https://github.com/RichaBanerjee)
-  #### Name: [Uttkarsh kumar](https://github.com/UTTKARSH-KUMAR)
+
+
+#### Name: [Uttkarsh kumar](https://github.com/UTTKARSH-KUMAR)
+
 - Place: Roorkee, Uttarakhand, INDIA
 - Bio: Software Engineer
 - GitHub: [UTTKARSH-KUMAR](https://github.com/UTTKARSH-KUMAR)
