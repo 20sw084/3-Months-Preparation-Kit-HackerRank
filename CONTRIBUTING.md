@@ -1,3 +1,11 @@
+### Name: [Saddar U Din](https://github.com/saddarudin)
+
+- Place: Jamshoro, Sindh, Pakistan
+- Bio: Software Engineer
+- GitHub: [Saddar U Din](https://github.com/saddarudin)
+
+
+
 #### Name: [Junaid Aslam](https://github.com/20sw084)
 
 - Place: Hyderabad, Sindh, Pakistan
