@@ -110,3 +110,11 @@
 - Place: Kathmandu, Nepal
 - Bio: Software Developer & Engineer
 - GitHub: [Khemraj Shrestha](https://github.com/khemrajshrestha471)
+
+
+#### Name: [Richa Banerjee](https://github.com/RichaBanerjee)
+
+- Place: Ahmedabad, Gujarat, India
+- Bio: Software Engineer
+- GitHub: [RichaBanerjee](https://github.com/RichaBanerjee)
+
