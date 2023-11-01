@@ -1,0 +1,105 @@
+import java.util.Scanner;
+
+public class SudokuSolver {
+    public static boolean isSafe(char[][] puzzle, int row, int col, int number) {
+        // Check the column
+        for (int i = 0; i < puzzle.length; i++) {
+            if (puzzle[i][col] == (char) (number + '0')) {
+                return false;
+            }
+        }
+
+        // Check the row
+        for (int j = 0; j < puzzle.length; j++) {
+            if (puzzle[row][j] == (char) (number + '0')) {
+                return false;
+            }
+        }
+
+        // Check the 3x3 grid
+        int startRow = 3 * (row / 3);
+        int startCol = 3 * (col / 3);
+
+        for (int i = startRow; i < startRow + 3; i++) {
+            for (int j = startCol; j < startCol + 3; j++) {
+                if (puzzle[i][j] == (char) (number + '0')) {
+                    return false;
+                }
+            }
+        }
+
+        return true;
+    }
+
+    public static boolean solvePuzzle(char[][] puzzle, int row, int col) {
+        if (row == puzzle.length) {
+            return true; // All cells are filled, the puzzle is solved
+        }
+
+        int nextRow = 0;
+        int nextCol = 0;
+
+        if (col == puzzle.length - 1) {
+            nextRow = row + 1;
+            nextCol = 0;
+        } else {
+            nextRow = row;
+            nextCol = col + 1;
+        }
+
+        if (puzzle[row][col] != '.') {
+            if (solvePuzzle(puzzle, nextRow, nextCol)) {
+                return true;
+            }
+        } else {
+            // Try filling the cell with numbers 1 to 9
+            for (int num = 1; num <= 9; num++) {
+                if (isSafe(puzzle, row, col, num)) {
+                    puzzle[row][col] = (char) (num + '0');
+                    if (solvePuzzle(puzzle, nextRow, nextCol)) {
+                        return true;
+                    } else {
+                        puzzle[row][col] = '.';
+                    }
+                }
+            }
+        }
+
+        return false;
+    }
+
+    public static void solveSudoku(char[][] puzzle) {
+        solvePuzzle(puzzle, 0, 0);
+    }
+
+    public static void printPuzzle(char[][] puzzle) {
+        for (int row = 0; row < 9; row++) {
+            for (int col = 0; col < 9; col++) {
+                System.out.print(puzzle[row][col] + " ");
+            }
+            System.out.println();
+        }
+    }
+
+    public static void main(String[] args) {
+        char[][] puzzle = new char[9][9];
+
+        // Input the Sudoku puzzle
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter the Sudoku puzzle (use '.' for empty cells):");
+        for (int row = 0; row < 9; row++) {
+            String rowInput = scanner.next();
+            for (int col = 0; col < 9; col++) {
+                puzzle[row][col] = rowInput.charAt(col);
+            }
+        }
+
+        // Solve the Sudoku puzzle
+        solveSudoku(puzzle);
+
+        System.out.println("Solved Sudoku:");
+        printPuzzle(puzzle);
+
+        scanner.close();
+    }
+}
